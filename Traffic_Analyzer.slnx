@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/" />
+  <Project Path="Traffic_Analyzer/Traffic_Analyzer.vcxproj" Id="50850503-f9de-4ce3-8547-41f66bbf22b1" />
+</Solution>
