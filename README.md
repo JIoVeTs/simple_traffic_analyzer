@@ -62,9 +62,6 @@
 - Windows Console API для локали UTF-8
 - Visual Studio 2022
 
-## Примечание по репозиторию
-
-В проекте уже настроен Git-репозиторий и удалённый origin на GitHub. Но удалённый репозиторий по адресу `https://github.com/JIoVeTs/Traffic_Analyzer.git` ещё не существует или недоступен из текущей среды. После создания репозитория на GitHub можно будет сделать push командой:
 
 ```bash
 git push origin main
