@@ -8,6 +8,7 @@
 x64/
 Debug/
 Release/
+bin/*.pdb
 *.obj
 *.pdb
 *.log
